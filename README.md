@@ -1,7 +1,9 @@
 # Event reminder
 
 User can add/delete reminder
+
 User can clear all reminders at once
+
 Used sfcookies to store cookies preventing data loss
 
 
