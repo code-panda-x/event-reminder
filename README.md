@@ -1,3 +1,10 @@
+# Event reminder
+
+User can add/delete reminder
+User can clear all reminders at once
+Used sfcookies to store cookies preventing data loss
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
